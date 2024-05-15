@@ -1,0 +1,1 @@
+This is Mini-message board project which is part of the @odin Project . i have used express generator tool to make this project .![Screenshot (191)](https://github.com/kundan766/Mini-messageBoard-The-Odin-project/assets/86033524/a66bbd1e-1cec-480f-87a4-ec0ab5502c41)
